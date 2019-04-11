@@ -1,2 +1,3 @@
-# Windows-Presentation-Foundation-WPF-
-Code examples.
+# Windows Presentation Foundation (WPF)
+
+Code examples, cases with solutions
